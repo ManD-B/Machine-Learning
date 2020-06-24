@@ -3,6 +3,7 @@
 workspace.xml
 *.db
 소상공인_201906/
+model/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -14,7 +15,6 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-model/
 build/
 develop-eggs/
 dist/
